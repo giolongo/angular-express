@@ -1,11 +1,13 @@
-# Angular-Express
+# Dettagli sul progetto
 
-Base project for an Angular application hosted by an express application
+Il progetto da me sviluppato è congiunto a quello dello studente Orazio Contarino.
 
-## Development server
+## Sviluppo
 
-Run `ng start-debug` for a dev server. Navigate to `http://localhost:4200/`.
+Io mi sono occupato del progetto "Employer Manager"
 
-## Build
+Contarino Orazio si è occupato del progetto "Permission Manager"
 
-Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Visualizzazione Codice
+
+È possibile visualizzare il codice al seguente link [Link](https://github.com/oraziocontarino/angular-express)
